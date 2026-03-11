@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Last of a Dying Breed",
+  "base_artist": "Joji",
+  "createdAt": "2026-03-11T09:45:39.354913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last of a Dying Breed",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/01_Last_of_a_Dying_Breed_Joji.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Of A Dying Breed",
+      "artist": "Impellitteri",
+      "has_synced": true,
+      "path": "select/02_Last_Of_A_Dying_Breed_Impellitteri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Last Of A Dying Breed",
+      "artist": "Destruction",
+      "has_synced": true,
+      "path": "select/03_The_Last_Of_A_Dying_Breed_Destruction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last of a Dying Breed",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/04_Last_of_a_Dying_Breed_Joji.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last of a Dying Breed",
+      "artist": "Wade Forster",
+      "has_synced": false,
+      "path": "select/05_Last_of_a_Dying_Breed_Wade_Forster.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Joji - Last of a Dying Breed (Visualizer)",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/06_Joji_-_Last_of_a_Dying_Breed_(Visualizer)_Joji.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last of a Dying Breed",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/07_Last_of_a_Dying_Breed_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Last Of A Dying Breed",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/08_The_Last_Of_A_Dying_Breed_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Of A Dying Breed (With Lil Wayne)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/09_Last_Of_A_Dying_Breed_(With_Lil_Wayne)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last of a Dying Breed",
+      "artist": "Scarface",
+      "has_synced": false,
+      "path": "select/10_Last_of_a_Dying_Breed_Scarface.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last of a Dying Breed",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Last_of_a_Dying_Breed_Joji.txt"
+    }
+  ]
+}
